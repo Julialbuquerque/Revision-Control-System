@@ -1,0 +1,9 @@
+Revision Control System
+
+   Revision Control System (RCS), ou Sistema de Controle de Revisão (SCR) em português, é uma implementação de software de controle de revisão, que automatiza o armazenamento, recuperação, registro, identificação e fusão de revisões. O RCS é útil para texto que é revisado com freqüência, por exemplo, programas, documentação, gráficos processuais, documentos e cartas. Ele também é capaz de lidar com arquivos binários, embora com uma eficiência reduzida. Revisões são armazenados, com o auxílio do utilitário diff.
+
+ 
+
+Desenvolvimento
+
+   RCS foi lançado pela primeira vez em 19821 2 por Walter F. Tichy, enquanto ele estava na Universidade de Purdue, como uma alternativa livre e mais evoluída para o então popular Source Code Control System (SCCS) - em português Sistema de Controle de Código Fonte. Ele agora faz parte do Projeto GNU, que ainda está mantendo-o.
