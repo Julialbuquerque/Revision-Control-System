@@ -7,3 +7,8 @@ Revision Control System
 Desenvolvimento
 
    RCS foi lançado pela primeira vez em 19821 2 por Walter F. Tichy, enquanto ele estava na Universidade de Purdue, como uma alternativa livre e mais evoluída para o então popular Source Code Control System (SCCS) - em português Sistema de Controle de Código Fonte. Ele agora faz parte do Projeto GNU, que ainda está mantendo-o.
+Modo de operação
+
+   O RCS funciona apenas em arquivos individuais. Não há maneira de trabalhar com um projeto inteiro. Embora ele forneça ramificação para arquivos individuais, a sintaxe da versão é complicada. Em vez de usar ramos, muitas equipes usam apenas o mecanismo interno de bloqueio e trabalham em um único ramo cabeça (head).
+
+ 
